@@ -559,8 +559,8 @@ requested by the minister and parishioners,
 to take special notice of him, as a most dangerous person to the church,
 being a ringleader of sects and schisms.`"
 
-[.asterism]
-'''
+[.embedded-content-document.letter]
+--
 
 [.blurb]
 === Ambrose Rigge`'s letter to Robert Pepys.
@@ -614,8 +614,10 @@ No more, but that I am a friend to you and all men.
 [.signed-section-signature]
 Ambrose Rigge
 
-[.asterism]
-'''
+--
+
+[.embedded-content-document.address]
+--
 
 [.blurb]
 === To the inhabitants of Gatton, in the county of Surrey, and to all others whom it does or may concern.
@@ -710,8 +712,7 @@ and to do good to them who spitefully hate and persecute him, who is called
 [.signed-section-signature]
 Ambrose Rigge
 
-[.asterism]
-'''
+--
 
 In the year 1664, I took Mary Luxford as my wife,
 who was the second daughter of Thomas Luxford, and Elizabeth his wife,
@@ -780,3 +781,5 @@ Ambrose Rigge.
 
 [.signed-section-context-close]
 Reigate, the 11th of the Ninth month, 1694.
+
+//this ^^ seems to be a journal entry more or less? 
