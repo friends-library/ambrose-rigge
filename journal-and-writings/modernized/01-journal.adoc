@@ -714,6 +714,9 @@ Ambrose Rigge
 
 --
 
+[.asterism]
+'''
+
 In the year 1664, I took Mary Luxford as my wife,
 who was the second daughter of Thomas Luxford, and Elizabeth his wife,
 of Hurst-Pierpoint in the county of Sussex; she was of honest and considerable parents,
@@ -781,5 +784,3 @@ Ambrose Rigge.
 
 [.signed-section-context-close]
 Reigate, the 11th of the Ninth month, 1694.
-
-//this ^^ seems to be a journal entry more or less? 
