@@ -2,6 +2,9 @@ name: lint-asciidoc
 
 on: [push]
 
+env:
+  GITHUB_TOKEN: ${{ github.token }}
+
 jobs:
   lint:
     name: lint
@@ -19,4 +22,5 @@ jobs:
         run: cd fl/packages/adoc-lint && yarn
       - name: compile
         run: cd fl && yarn compile adoc-lint
-      - uses: ./lint-files
+      - name: lint
+        uses: jaredh159/actions-test/lint-adoc@master
