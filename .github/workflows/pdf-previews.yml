@@ -18,5 +18,10 @@ jobs:
           echo "<h1>Hello pdf</h1>" > ~/hello.html
           $PRINCE_BIN ~/hello.html
           head ~/hello.pdf
+      - name: upload
+        uses: actions/upload-artifact@v2
+        with:
+          name: my-artifact
+          path: ~/hello.pdf
       # - name: test
       #   uses: friends-library/friends-library/actions/pdf@actions
