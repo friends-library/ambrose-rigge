@@ -15,10 +15,10 @@ jobs:
           curl -s https://flp-assets.nyc3.digitaloceanspaces.com/actions/prince-books-20191125-ubuntu18.04-amd64.tar.gz > ~/prince.tar.gz
           tar -xvzf ~/prince.tar.gz -C ~ > /dev/null
           printf "$HOME\n" | ~/prince-books-20191125-ubuntu18.04-amd64/install.sh
-      - name: test
+      - name: do a js thing
         uses: friends-library/friends-library/actions/pdf@actions
-      - name: upload
-        uses: actions/upload-artifact@v2
-        with:
-          name: moved
-          path: ~/moved.pdf
+      # - name: upload
+      #   uses: actions/upload-artifact@v2
+      #   with:
+      #     name: moved
+      #     path: ~/moved.pdf
