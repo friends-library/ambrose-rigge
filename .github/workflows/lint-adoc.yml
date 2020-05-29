@@ -1,0 +1,18 @@
+name: lint-asciidoc
+
+on: [pull_request]
+
+jobs:
+  lint:
+    name: run-lint-adoc
+    runs-on: ubuntu-latest
+    if: github.ref != 'refs/heads/master'
+    steps:
+      - uses: trilom/file-changes-action@v1.2.3
+        with:
+          token: ${{ github.token }}
+      - uses: actions/checkout@v2
+      - name: lint
+        uses: friends-library/friends-library/actions/lint-adoc@455858c8
+        with:
+          GITHUB_TOKEN: ${{ github.token }}
