@@ -7,21 +7,23 @@ jobs:
     name: pdf-previews
     runs-on: ubuntu-latest
     if: github.ref != 'refs/heads/master'
+    env:
+      PRINCE_BIN: ~/bin/prince-books
     steps:
       - name: debug
         run: |
           curl -s https://flp-assets.nyc3.digitaloceanspaces.com/actions/prince-books-20191125-ubuntu18.04-amd64.tar.gz > ~/prince.tar.gz
           mkdir -p ~/prince
-          tar -xvzf ~/prince.tar.gz -C ~/prince
+          tar -xvzf ~/prince.tar.gz -C ~/prince > /dev/null
           printf "$HOME\n" | ~/prince/prince-books-20191125-ubuntu18.04-amd64/install.sh
           export PRINCE_BIN=~/bin/prince-books
           echo "<h1>Hello pdf</h1>" > ~/hello.html
           $PRINCE_BIN ~/hello.html
           head ~/hello.pdf
+      - name: test
+        uses: friends-library/friends-library/actions/pdf@actions
       - name: upload
         uses: actions/upload-artifact@v2
         with:
           name: my-artifact
           path: ~/hello.pdf
-      # - name: test
-      #   uses: friends-library/friends-library/actions/pdf@actions
