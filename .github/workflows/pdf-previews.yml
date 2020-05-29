@@ -20,5 +20,5 @@ jobs:
       - name: upload
         uses: actions/upload-artifact@v2
         with:
-          name: my-artifact
-          path: /home/runner/work/_actions/friends-library/friends-library/actions/actions/pdf/artifacts/pdf-action/howdy.pdf
+          name: moved
+          path: ~/moved.pdfa
