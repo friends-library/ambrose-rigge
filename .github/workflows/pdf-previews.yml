@@ -9,6 +9,11 @@ jobs:
     if: github.ref != 'refs/heads/master'
     env:
       PRINCE_BIN: /home/runner/bin/prince-books
+      CLOUD_STORAGE_BUCKET_URL: ${{ secrets.CLOUD_STORAGE_BUCKET_URL }}
+      CLOUD_STORAGE_BUCKET: ${{ secrets.CLOUD_STORAGE_BUCKET }}
+      CLOUD_STORAGE_ENDPOINT: ${{ secrets.CLOUD_STORAGE_ENDPOINT }}
+      CLOUD_STORAGE_KEY: ${{ secrets.CLOUD_STORAGE_KEY }}
+      CLOUD_STORAGE_SECRET: ${{ secrets.CLOUD_STORAGE_SECRET }}
     steps:
       - name: debug
         run: |
