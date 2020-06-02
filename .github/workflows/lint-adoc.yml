@@ -13,6 +13,6 @@ jobs:
           token: ${{ github.token }}
       - uses: actions/checkout@v2
       - name: lint
-        uses: friends-library/friends-library/actions/lint-adoc@3da5714c
+        uses: friends-library/friends-library/actions/lint-adoc@d7db64ce
         with:
           GITHUB_TOKEN: ${{ github.token }}
