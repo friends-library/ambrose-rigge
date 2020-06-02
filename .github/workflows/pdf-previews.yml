@@ -1,6 +1,6 @@
 name: pdf-previews
 
-on: [push]
+on: [pull_request]
 
 jobs:
   pdfpreview:
@@ -27,6 +27,6 @@ jobs:
         with:
           token: ${{ github.token }}
       - name: create pdf previews
-        uses: friends-library/friends-library/actions/pdf@actions
+        uses: friends-library/friends-library/actions/pdf@04505bb9
         with:
           GITHUB_TOKEN: ${{ github.token }}
