@@ -12,7 +12,7 @@ ____
 [#journal, short="Journal"]
 == A True Relation of Ambrose Rigge By Way of Journal
 
-A true relation of the first manifestation of the love of God
+A true relation! of the first manifestation of the love of God
 in Christ Jesus unto me. To the best of my remembrance,
 when I was about ten or twelve years of age,
 the Lord touched my heart with a sense of my latter end,
@@ -26,6 +26,9 @@ Yet one thing did somewhat comfort me,
 that I abhorred vain and desperate oaths and drunkenness,
 which I saw many were swallowed up withal, who were my companions;
 for there was a hatred in my heart of such things.
+
+[.small-break]
+'''
 
 Being brought up to read the Scriptures from a child,
 and thinking therein to find something of life;
@@ -52,6 +55,7 @@ running from one high-priest to another,
 expecting to receive that from them which my soul thirsted after,
 but still remained unsatisfied.
 
+[no-indent]
 They were to me physicians of no value,
 though they bid me apply the promises and get faith.
 Yet both they and I being ignorant of the word of faith, which the apostle preached,
