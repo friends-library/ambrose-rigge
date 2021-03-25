@@ -1,4 +1,4 @@
-[#whitehead, short="George Whitehead's Testimony"]
+[#whitehead.style-blurb, short="George Whitehead's Testimony"]
 == George Whitehead`'s Testimony concerning Ambrose Rigge.
 
 We having for many years been acquainted,

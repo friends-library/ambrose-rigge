@@ -1,4 +1,4 @@
-[#gospel_witnessed, short="The Gospel Witnessed Unto"]
+[#gospel_witnessed.style-blurb, short="The Gospel Witnessed Unto"]
 == The Gospel of our Lord Jesus Christ Witnessed Unto
 
 The true and everlasting gospel, is glad tidings, namely, deliverance, redemption,

@@ -1,4 +1,4 @@
-[#true_false_gospel, short="The True and False Gospel"]
+[#true_false_gospel.style-blurb, short="The True and False Gospel"]
 == The difference between the true gospel and the false, truly stated and clearly demonstrated; that all people may see and read which gospel they have received and obeyed these many years, whether the true gospel, or the false.
 
 The true and everlasting gospel of Jesus Christ the Son of God,

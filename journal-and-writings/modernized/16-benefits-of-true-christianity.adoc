@@ -1,4 +1,4 @@
-[#benefits, short="The Benefits of True Christianity"]
+[#benefits.style-blurb, short="The Benefits of True Christianity"]
 == A Further Account of the Benefits of True Christianity, by the Spiritual Appearance of Christ.
 
 The primary and fundamental principle of true Christianity, is the gift of God,

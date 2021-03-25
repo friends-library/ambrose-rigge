@@ -1,4 +1,4 @@
-[#general_epistle, short="A General Epistle to the People of God"]
+[#general_epistle.style-blurb, short="A General Epistle to the People of God"]
 == A general epistle to the people of God, in scorn called Quakers, in England and elsewhere.
 
 Dear friends, brethren and sisters,--Unto whom the visitation of life

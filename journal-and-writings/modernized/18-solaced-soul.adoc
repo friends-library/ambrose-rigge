@@ -1,3 +1,4 @@
+[.style-blurb]
 == The Song of A Solaced Soul
 
 [verse]

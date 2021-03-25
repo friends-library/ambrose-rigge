@@ -1,4 +1,4 @@
-[#epistle_north_england, short="Epistle to Quakers in North England"]
+[#epistle_north_england.style-blurb, short="Epistle to Quakers in North England"]
 == An Epistle to the people of God, called Quakers, in the north of England, to be read in all their meetings.
 
 Beloved Friends, brethren and sisters, who are inhabitants of my native country,

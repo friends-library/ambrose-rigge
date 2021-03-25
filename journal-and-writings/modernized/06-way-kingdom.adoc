@@ -1,4 +1,4 @@
-[#way_to_kingdom, short="The Way to the Kingdom of God"]
+[#way_to_kingdom.style-blurb, short="The Way to the Kingdom of God"]
 == The Way Which Leads to the Kingdom of God, Held Forth to All Who Are Willing to Enter Therein.
 
 As Satan by sin and transgression opened a way
