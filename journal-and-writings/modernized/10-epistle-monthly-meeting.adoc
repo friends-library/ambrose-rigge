@@ -1,4 +1,4 @@
-[#epistle_monthly.style-blurb, short="Epistle from Our Monthly Meeting"]
+[.style-blurb, short="Epistle from Our Monthly Meeting"]
 == An Epistle from our monthly meeting, held at our public meetinghouse in Reigate, in Surrey, the seventh-day of the ninth month, 1692.
 
 We being assembled with one accord in the unity of the spirit of Truth,

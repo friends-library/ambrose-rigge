@@ -1,4 +1,4 @@
-[#to_all_friends_everywhere.style-blurb, short="To All Friends and Brethren Everywhere"]
+[.style-blurb, short="To All Friends and Brethren Everywhere"]
 == A general epistle to all Friends and brethren, everywhere; to be read among them in the fear of God.
 
 My dearly beloved friends, brethren and sisters,

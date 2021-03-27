@@ -1,4 +1,4 @@
-[#word_spirit.style-blurb, short="The Internal Word and Spirit of God"]
+[.style-blurb, short="The Internal Word and Spirit of God"]
 == A Treatise Concerning the Internal Word and Spirit of God.
 
 In the beginning God made man upright, and gave him wisdom,

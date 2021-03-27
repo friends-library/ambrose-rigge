@@ -9,7 +9,7 @@ ____
 Whose faith follow; considering the outcome of their conduct.
 ____
 
-[#journal.style-blurb, short="Journal"]
+[.style-blurb, short="Journal"]
 == A True Relation of Ambrose Rigge By Way of Journal
 
 A true relation of the first manifestation of the love of God

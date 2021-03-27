@@ -1,4 +1,4 @@
-[#letter_charles.style-blurb, short="Letter to Charles II"]
+[.style-blurb, short="Letter to Charles II"]
 == A visitation of tender love from the Lord unto Charles II. King of England, Scotland and Ireland.
 
 Let the consideration of these following lines deeply sink into your heart,

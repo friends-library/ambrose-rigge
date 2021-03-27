@@ -1,4 +1,4 @@
-[#testimony_spiritual_man.style-blurb, short="A Testimony Concerning the Spiritual Man"]
+[.style-blurb, short="A Testimony Concerning the Spiritual Man"]
 == A Testimony Concerning the spiritual man, who is begotten of God, through the Spirit, by the immortal word of God, which lives and abide forever, and has received, the Spirit of adoption, whereby he cries Abba Father.
 
 As there is a natural man who is corrupted after the deceitful lusts,
