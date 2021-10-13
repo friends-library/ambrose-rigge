@@ -1,7 +1,7 @@
+== Chapter I
 
-=== Chapter I
-
-==== A True Relation of the First Manifestation of the Love of God in Christ Jesus unto Me.
+[.chapter-subtitle--blurb]
+A True Relation of the First Manifestation of the Love of God in Christ Jesus unto Me.
 
 To the best of my remembrance, when I was about ten or twelve years of age,
 the Lord touched my heart with a sense of my latter end,
@@ -76,7 +76,8 @@ yet I was always preserved from gross evils, by him whom I now knew to be my str
 though I had many occasions and provocations thereunto, glory, honour,
 and living praises unto the Lord God, and to the Lamb forevermore.
 
-==== The Way and Manner of my First Coming to the Knowledge of the Truth, and Way of Peace, Which had been the Breathing of my Soul from my Youth
+[.blurb]
+=== The Way and Manner of my First Coming to the Knowledge of the Truth, and Way of Peace, Which had been the Breathing of my Soul from my Youth
 
 After my long travail in the night of darkness and ignorance,
 wherein I had toiled and taken nothing,
@@ -528,9 +529,9 @@ Many other sufferings and exercises I had there, but the Lord was with me,
 and delivered me out of them all; and much good service I had in the country there about;
 and many were gathered to the Lord, and established in the faith of the gospel.
 
-=== Chapter II
+== Chapter II
 
-==== Robert Pepys, Priest of Gatton in Surrey, his False Accusations to the Justices at the Sessions Against Ambrose Rigge; a Copy Whereof Follows
+=== Robert Pepys, Priest of Gatton in Surrey, his False Accusations to the Justices at the Sessions Against Ambrose Rigge; a Copy Whereof Follows
 
 This Ambrose is lately come into this parish, from Horsham,
 where he was in the prison (as it is reported) seven years for his damnable heresies,
@@ -546,7 +547,7 @@ And this honourable court is humbly and earnestly requested by the minister and 
 to take special notice of him, as a most dangerous person to the church,
 being a ringleader of sects and schisms.
 
-==== Ambrose Rigge`'s Letter to Robert Pepys
+=== Ambrose Rigge`'s Letter to Robert Pepys
 
 Neighbour Pepys,--I am credibly informed, that you did greatly instigate the magistrates,
 at the sessions in Southwark, against me,
@@ -592,7 +593,7 @@ No more, but that I am a friend to you and all men.
 
 Ambrose Rigge.
 
-==== To the Inhabitants of Gatton, in the County of Surrey, and to All Others Whom it Does or May Concern
+=== To the Inhabitants of Gatton, in the County of Surrey, and to All Others Whom it Does or May Concern
 
 Friends and Neighbours,
 
@@ -684,7 +685,7 @@ and to do good to them who spitefully hate and persecute him, who is called
 
 Ambrose Rigge.
 
-==== An Epistle to the People of God, Called Quakers, in the North of England, to be Read in All their Meetings
+=== An Epistle to the People of God, Called Quakers, in the North of England, to be Read in All their Meetings
 
 Beloved Friends, brethren and sisters, who are inhabitants of my native country,
 whom the Lord, in the first breaking forth of his glorious gospel day,
@@ -992,7 +993,7 @@ Ambrose Rigge.
 
 Rigate, this 16th day of the Tenth month, 1692.
 
-==== A Visitation of Tender Love From the Lord unto Charles II, King of England, Scotland and Ireland
+=== A Visitation of Tender Love From the Lord unto Charles II, King of England, Scotland and Ireland
 
 Let the consideration of these following lines deeply sink into your heart,
 for they are things of great importance to you at this day.
@@ -1102,9 +1103,9 @@ Ambrose Rigge.
 
 This was written the 2nd of the Seventh month, 1662.
 
-=== Chapter III
+== Chapter III
 
-==== A Standard of Righteousness Lifted Up Unto the Nations, and an Ensign of Grace and Peace Unto the People
+=== A Standard of Righteousness Lifted Up Unto the Nations, and an Ensign of Grace and Peace Unto the People
 
 Preface
 
