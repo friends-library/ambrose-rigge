@@ -1130,7 +1130,8 @@ and remain yours to serve in love,
 
 Ambrose Rigge.
 
-*   *   *
+[.asterism]
+'''
 
 In the beginning God made man upright, Ecc. 7:29,
 perfect and complete in his own image, Gen. 1:26-27,
@@ -1796,9 +1797,9 @@ whom Leonard Letchford and others of his profession have caused to promise
 and vow that the child should keep God`'s holy will and commandments,
 and walk in the same to his life`'s end.
 
-=== Chapter IV
+== Chapter IV
 
-==== A Few Words Concerning Man in his Fallen Degenerated State from God, in Which he Has Not Power to Keep the Commands of God, Nor his Law, Nor to do Any Work Acceptable to him; but All his Righteousness is as Filthy Rags.
+=== A Few Words Concerning Man in his Fallen Degenerated State from God, in Which he Has Not Power to Keep the Commands of God, Nor his Law, Nor to do Any Work Acceptable to him; but All his Righteousness is as Filthy Rags.
 
 All men by nature are the children of wrath, as it is written, Eph. 2:3,
 fallen from God and his power, degenerate plants of a strange vine, Jer. 2:21,
@@ -1983,7 +1984,7 @@ therefore while you have a little time, prize it,
 lest the day of your visitation pass away,
 and the day of wrath come upon you as a thief in the night, 1 Thess. 5:2.
 
-==== A Testimony Concerning the Spiritual Man, who is Begotten of God, Through the Spirit, by the Immortal Word of God, which Lives and Abides Forever, and Has Received the Spirit of Adoption, Whereby he Cries Abba, Father.
+=== A Testimony Concerning the Spiritual Man, who is Begotten of God, Through the Spirit, by the Immortal Word of God, which Lives and Abides Forever, and Has Received the Spirit of Adoption, Whereby he Cries Abba, Father.
 
 As there is a natural man who is corrupted after the deceitful lusts,
 so there is a spiritual man, who is born of the Spirit,
@@ -2082,7 +2083,7 @@ Num. 22:18; 24:13. But they love and take it,
 and persecute all those who will not give it to them,
 as we have a cloud of witnesses standing upon record against them at this day.
 
-==== The Way which Leads to the Kingdom of God, Held Forth to All who are Willing to Enter Therein.
+=== The Way which Leads to the Kingdom of God, Held Forth to All who are Willing to Enter Therein.
 
 As satan by sin and transgression opened a way into
 eternal misery and condemnation from God,
@@ -2226,7 +2227,7 @@ and spread your table in the sight of your enemies, Ps. 23:1-5,
 and he will lead you into green pastures by the rivers of water,
 and will restore your soul to praise and glorify his name forever.
 
-==== The Difference Between the True Gospel and the False, Truly Stated and Clearly Demonstrated; that All People may See and Read which Gospel they have Received and Obeyed these Many Years, Whether the True Gospel, or the False.
+=== The Difference Between the True Gospel and the False, Truly Stated and Clearly Demonstrated; that All People may See and Read which Gospel they have Received and Obeyed these Many Years, Whether the True Gospel, or the False.
 
 The true and everlasting gospel of Jesus Christ the Son of God,
 is glad tidings of good things; which are remission of sins,
@@ -2287,7 +2288,7 @@ The messengers of the false gospel say, Christ shall save from the punishment du
 but not from committing sin; which doctrine overthrows the justice of God,
 who gives to everyone according to their deeds.
 
-==== To the General Assembly of the First-Born in the Northern Coasts of England, who were the First Fruits unto God, and had First the Joyful Sound of the Everlasting Gospel Published in your Ears, Whereby you were Raised from Death, to Live with the Lord in his Holy Covenant of Life, Wherein his Sure Mercies unto you have been Fully Known and Manifested; Grace, Mercy, Love and Peace, be Multiplied In and Among you all.
+=== To the General Assembly of the First-Born in the Northern Coasts of England, who were the First Fruits unto God, and had First the Joyful Sound of the Everlasting Gospel Published in your Ears, Whereby you were Raised from Death, to Live with the Lord in his Holy Covenant of Life, Wherein his Sure Mercies unto you have been Fully Known and Manifested; Grace, Mercy, Love and Peace, be Multiplied In and Among you all.
 Amen.
 
 Right dearly beloved, and highly esteemed of the Lord,
@@ -2462,9 +2463,9 @@ Ambrose Rigge.
 Let this be read with fear and reverence in all the
 congregations of God`'s people in the north country.
 
-=== Chapter V
+== Chapter V
 
-==== To all Rulers, magistrates, Priests and People, who Profess the Scriptures to be their Rule, Throughout the Nation of England; but More Particularly to the Magistrates, Priests, and People of this County of Sussex, who have had Any Hand in Oppressing and Persecuting of them whom God has Sent as Strangers Among them, in Tender Love and Pity to their Souls, to Turn them to Righteousness, Through Which they may See how Far they are From the Practice and Command of the True Christians, Mentioned in the Scriptures of Truth.
+=== To all Rulers, magistrates, Priests and People, who Profess the Scriptures to be their Rule, Throughout the Nation of England; but More Particularly to the Magistrates, Priests, and People of this County of Sussex, who have had Any Hand in Oppressing and Persecuting of them whom God has Sent as Strangers Among them, in Tender Love and Pity to their Souls, to Turn them to Righteousness, Through Which they may See how Far they are From the Practice and Command of the True Christians, Mentioned in the Scriptures of Truth.
 
 Throughout all ages and generations,
 he that was born after the flesh persecuted him that was born after the Spirit;
@@ -2605,7 +2606,7 @@ Ambrose Rigge, Ambrose Galloway, Richard Webb, James Matthew.
 
 Dated about the Eighth month, 1663.
 
-==== A Brief and Serious Learning to Such as are Concerned in Commerce and Trading, who go Under the Profession of Truth, to Keep Within the Bounds Thereof, in Righteousness, Justice and Honesty Towards all Men.
+=== A Brief and Serious Learning to Such as are Concerned in Commerce and Trading, who go Under the Profession of Truth, to Keep Within the Bounds Thereof, in Righteousness, Justice and Honesty Towards all Men.
 
 Many days and months, yes, some years has my life been oppressed, and my spirit grieved,
 to see and hear of the uneven walking of many, who have a name to live,
@@ -2806,7 +2807,7 @@ Ambrose Rigge.
 
 Gatton-place, in Surrey, the 16th of the Eleventh month, 1678.
 
-==== To All the Faithful Flock of God in Suffering, Whether in Prison or at Liberty, in Scorn Called Quakers
+=== To All the Faithful Flock of God in Suffering, Whether in Prison or at Liberty, in Scorn Called Quakers
 
 The salutation of my endeared love in our Lord Jesus Christ,
 the Captain of our salvation, who was made perfect through suffering,
@@ -2913,7 +2914,7 @@ Ambrose Rigge.
 
 Gatton, this 28th of the Twelfth month, 1682-3.
 
-==== The Spiritual Guide of Life, Offered and Tendered to All Mankind, Without Respect of Persons, Age or Sex, to Direct their Feet into the Way of Peace.Or the Inward and Spiritual Grace of God Exalted as Man`'s Only Teacher.
+=== The Spiritual Guide of Life, Offered and Tendered to All Mankind, Without Respect of Persons, Age or Sex, to Direct their Feet into the Way of Peace.Or the Inward and Spiritual Grace of God Exalted as Man`'s Only Teacher.
 
 It is the universal concern of all mankind upon the face of the whole earth,
 to seek those things which belong to their eternal peace, happiness,
@@ -3341,9 +3342,9 @@ Ambrose Rigge.
 
 Rigate, this 30th of the Third month, 1691.
 
-=== Chapter VI
+== Chapter VI
 
-==== To Friends in the Isle of Wight.
+=== To Friends in the Isle of Wight.
 
 Dear Friends,
 
@@ -3412,7 +3413,7 @@ Ambrose Rigge.
 
 Rigate, this 13th day of the Sixth month, 1691.
 
-==== An Epistle From our Monthly Meeting, Held at our Public Meeting-House in Rigate, in Surrey, the Seventh-Day of the Ninth Month, 1692.
+=== An Epistle From our Monthly Meeting, Held at our Public Meeting-House in Rigate, in Surrey, the Seventh-Day of the Ninth Month, 1692.
 
 We being assembled with one accord in the unity of the spirit of Truth,
 have a deep and weighty consideration upon our hearts and spirits,
@@ -3601,7 +3602,7 @@ Written and signed in behalf of the said meeting, by
 
 Ambrose Rigge.
 
-==== A General Epistle to the People of God, in Scorn Called Quakers, in England and Elsewhere.
+=== A General Epistle to the People of God, in Scorn Called Quakers, in England and Elsewhere.
 
 Dear friends, brethren and sisters,
 
@@ -3919,7 +3920,7 @@ Ambrose Rigge.
 
 Rigate in Surrey, the 2nd of the Ninth month, 1693.
 
-==== Consideration of True and Acceptable Worship
+=== Consideration of True and Acceptable Worship
 
 The deep and weighty consideration of the true and
 acceptable worship and service of Almighty God,
@@ -4007,9 +4008,9 @@ Ambrose Rigge.
 
 Rigate, the 30th of the Fourth month, 1697.
 
-=== Chapter VII
+== Chapter VII
 
-==== A General Epistle to All Friends and Brethren, Everywhere; to be Read Among Them in the Fear of God, etc.
+=== A General Epistle to All Friends and Brethren, Everywhere; to be Read Among Them in the Fear of God, etc.
 
 My dearly beloved friends, brethren and sisters,
 who are made partakers of that precious faith and word of it,
@@ -4383,7 +4384,7 @@ Ambrose Rigge.
 
 Rigate in Surrey, the 4th of the Fifth month, 1702.
 
-==== A Testimony to True Christianity, etc.
+=== A Testimony to True Christianity, etc.
 
 The great and everlasting God who created heaven and earth, the sea,
 and all that is therein, by his word; also created man in his own image,
@@ -5093,9 +5094,9 @@ Ambrose Rigge.
 
 Rigate in Surrey, the 22nd of the Tenth month, 1702.
 
-=== Chapter VIII
+== Chapter VIII
 
-==== The Gospel of our Lord Jesus Christ Witnessed Unto, etc.
+=== The Gospel of our Lord Jesus Christ Witnessed Unto, etc.
 
 The true and everlasting gospel is glad tidings, namely, deliverance, redemption,
 and reconciliation of all mankind to God again.
@@ -5198,7 +5199,7 @@ When we lay polluted in our blood, and no eye pitied us, he had compassion on us
 and said unto us, live; and his word quickened us, and became a light to our feet,
 and guided them into the way of holiness, which alone leads to everlasting life.
 
-==== The False Gospel, (or Another Gospel Than That the Apostles Preached,) Which is Sad Tidings, Witnessed Against.
+=== The False Gospel, (or Another Gospel Than That the Apostles Preached,) Which is Sad Tidings, Witnessed Against.
 
 This gospel, though it has many of the words of the true,
 yet its fruits and effects are diametrically different:
@@ -5245,7 +5246,7 @@ Ambrose Rigge.
 
 Rigate, the 7th of the Eleventh month, 1702-3.
 
-==== A Further Account of the Benefits of True Christianity, by the Spiritual Appearance of  Christ.
+=== A Further Account of the Benefits of True Christianity, by the Spiritual Appearance of  Christ.
 
 The primary and fundamental principle of true Christianity, is the gift of God,
 through which he will open the fountain of eternal
@@ -5483,7 +5484,7 @@ to the finishing of my testimony.
 Amen.
 Hallelujah says my soul.
 
-==== A Treatise Concerning the Internal Word and Spirit of God, etc.
+=== A Treatise Concerning the Internal Word and Spirit of God, etc.
 
 In the beginning God made man upright, and gave him wisdom,
 knowledge and understanding of life, light and glory, in which, while he continued,
@@ -6066,7 +6067,7 @@ Ambrose Rigge.
 
 Rigate in Surrey, the 8th of the Fifth month, 1703.
 
-==== The Song of a Solaced Soul
+=== The Song of a Solaced Soul
 
 Mount up, my soul, on contemplation`'s wing.
 
@@ -6100,9 +6101,9 @@ by Ambrose Rigge.
 
 Written at Rigate in Surrey, the 4th of the Eighth month, 1703.
 
-=== Testimonies of Ambrose and Mary Rigge
+== Testimonies of Ambrose and Mary Rigge
 
-==== Ambrose Rigge`'s Testimony Concerning his Wife
+=== Ambrose Rigge`'s Testimony Concerning his Wife
 
 In the year 1664, I took Mary Luxford to wife,
 who was the second daughter of Thomas Luxford, and Elizabeth his wife,
@@ -6169,7 +6170,7 @@ Ambrose Rigge.
 
 Rigate, the 11th of the Ninth month, 1694.
 
-==== George Whitehead`'s Testimony Concerning Ambrose Rigge
+=== George Whitehead`'s Testimony Concerning Ambrose Rigge
 
 We having for many years been acquainted,
 (as he was my countryman and loving friend) we loved as brethren from the first,
