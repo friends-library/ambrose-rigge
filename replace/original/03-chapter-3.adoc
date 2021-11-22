@@ -1,10 +1,12 @@
-== Chapter III
+[#a-standard, short="A Standard of Righteousness"]
+== Chapter III. A Standard of Righteousness Lifted Up Unto the Nations and an Ensign of Grace and Peace Unto the People
 
-=== A Standard of Righteousness Lifted Up Unto the Nations, and an Ensign of Grace and Peace Unto the People
+[.blurb]
+=== Preface
 
-Preface
-
+[.salutation]
 Gentle and Courteous Reader:
+
 In this small book are many weighty matters laid down to thy serious consideration,
 even the things which belong to thy eternal peace with God;
 therefore be not rash nor hasty to judge of any thing herein,
@@ -24,6 +26,7 @@ and will open unto thee these things, and no man shall shut them from thee;
 but if thou shut them from thee, no man shall open them to thee:
 therefore unto this I recommend thee, and remain thine to serve in love,
 
+[.signed-section-signature]
 Ambrose Rigge.
 
 [.asterism]
@@ -288,7 +291,7 @@ who cannot endure so to be called; though we know that no unclean person,
 nor covetous man, who is an idolater, hath any inheritance in the kingdom of Christ,
 nor of God: Eph. 5:3-5.
 
-And the apostle said. Let no man deceive you with vain words,
+And the apostle said, Let no man deceive you with vain words,
 for because of these things cometh the wrath of God upon the children of disobedience; verse 6.
 
 Here follows some of Leonard Letchford`'s doctrines, by way of query,
@@ -312,7 +315,11 @@ And none of them did answer the Lord when he gave them his laws, statutes,
 and ordinances, commandments and precepts, and say it cannot be done,
 as Leonard Letchford of Hurst Pierpoint.
 
+[.offset]
 The paper is as followeth, September 6, 1663.
+
+[.embedded-content-document.paper]
+--
 
 Whether to do good, and not to commit sin,
 be a perfection that any man dares challenge whilst he lives on earth,
@@ -325,7 +332,10 @@ By which I have struck the devil dumb in the Quaker`'s Oracle at Horsham,
 known to the world by the name of Ambrose Rigge; Lord open his lips,
 that his mouth may show forth thy praise, in saying plainly it cannot be done.
 
+[.signed-section-signature]
 L+++.+++ L.
+
+--
 
 Now Moses and Abraham, as I have before asserted,
 to whom the law and commandments were given forth, did so keep them, and observe them,
@@ -345,49 +355,65 @@ or else let those faithful servants of God afore mentioned,
 who kept God`'s law and commandments, and did live with God in them,
 be witnesses against those who would have people believe it cannot be done.
 
+[.numbered-group]
+====
+
+[.numbered]
 1+++.+++ Christ saith, after he had given forth many commandments unto the people;
 He that breaketh one of these least commandments, and shall teach men so,
 he shall be called the least in the kingdom of heaven;
 but whosoever shall do and teach them,
 shall be called great in the kingdom of heaven, Matt. 5:19.
 
+[.numbered]
 2+++.+++ Christ said to his disciples, If ye love me, keep my commandments, John 14:15.
 
+[.numbered]
 3+++.+++ He that hath my commandments, and keepeth them, he it is that loveth me;
 and he that loveth me, shall be loved of my Father, and I will love him,
 and manifest myself to him, John 14:21.
 
+[.numbered]
 4+++.+++ A new commandment I give unto you, that you love one another, John 13:34.
 
+[.numbered]
 5+++.+++ If ye keep my commandments, ye shall abide in my love,
 even as I have kept my Father`'s commandments, and abide in his love, John 15:10.
 
+[.numbered]
 6+++.+++ Verily, verily, I say unto you, If a man keep my sayings,
 he shall never see death, John 8:51.
 
+[.numbered]
 7+++.+++ All which promises were made unto his disciples upon this condition,
 that they kept his commandments, and not otherwise.
 
+[.numbered]
 8+++.+++ To which the disciples answered, not as Leonard Letchford doth,
 in saying it cannot be done, and count this praise to God: but they said,
 Hereby we know that we know him, if we keep his commandments, 1 John 2:3.
 
+[.numbered]
 9+++.+++ Again they spoke in reproof of those who should say they knew God,
 and kept not his commandments, and said, such were liars,
 and the truth was not in them, 1 John 2:4.
 
+[.numbered]
 10+++.+++ Furthermore they testified, That whatsoever they asked, they received of him,
 because they kept his commandments, 1 John 3:22.
 
+[.numbered]
 11+++.+++ He that keepeth his commandments dwelleth in him, and he in him;
 and hereby they knew that he did abide in them, by the Spirit which he gave them;
 this was their proof of him in the days of old,
 which is now so much condemned and cried against by Leonard Letchford,
 and men of his coat, who saith, none can exactly keep the commands of God, 1 John 3:24.
 
+[.numbered]
 12+++.+++ And by this they knew they loved the children of God, when they loved God,
 and kept his commandments, 1 John 5:2.
 
+[.numbered]
 13+++.+++ Again they said, This is the love of God, that we keep his commandments,
 and his commandments are not grievous, 1 John 5:3.
 
@@ -395,7 +421,10 @@ Harken, Leonard Letchford, Art not thou of another mind, who would have people s
 It cannot be done?
 May not all these rise up in judgment against thee?
 
+[.numbered]
 14+++.+++ And this is the love of God, that we keep his commandments, 1 John 5:3.
+
+====
 
 All these gave testimony, how they kept his commandments,
 through which their love was manifested to him, and for so doing,
@@ -408,41 +437,57 @@ through the eternal Spirit, by which he cleansed them from all sin,
 and sanctified them in body, soul, and spirit, which as they grew up unto God in stature,
 they bear witness unto.
 
+[.embedded-content-document.paper]
+--
+
+[.letter-heading]
 Priest Letchford`'s Query.
 
 Whether to do good, and not to commit sin,
 be a perfection that any man dares challenge while he is upon the earth?
+
+--
 
 Which plainly demonstrates, that he is against doing good, and for committing of sin,
 and denies perfection while people are upon the earth;
 which is absolutely contrary to the doctrine of Christ and his apostles,
 and makes the coming, suffering and blood of Christ of none effect.
 
+[.numbered-group]
+====
+
+[.numbered]
 1+++.+++ It is contrary to the doctrine of Christ, Matt. 5:48; who said to his disciples,
 Be ye perfect, as your heavenly Father is perfect;
 which is a perfection of holiness and freedom from sin;
 for otherwise they could not be perfect, as their heavenly Father was perfect.
 
+[.numbered]
 2+++.+++ Christ said unto the young man who had kept the commandments from his youth,
 If thou wilt be perfect, sell that thou hast, and give to the poor,
 and thou shalt have treasure in heaven, and come and follow me, Matt. 19:21.
 
+[.numbered]
 3+++.+++ It is contrary to Christ`'s prayer, John 17:23;
 who desired that they whom God had given him might be one, as he and his Father was one:
 He in them, and they in him, that they might be made perfect in one, etc.,
 which could never be till sin and transgression was finished,
 which was the first cause of separation.
 
+[.numbered]
 4+++.+++ To say that none can be perfect while he is upon the earth,
 is contrary to Christ`'s words, who said,
 Every one that is perfect shall be as his Master, Luke 6:40,
 which agrees with his words, Matt. 5:48.
 
+[.numbered]
 5+++.+++ It is contrary to the doctrine of Paul, who said,
 We speak wisdom among them that are perfect, 1 Cor. 2:6.
 
+[.numbered]
 6+++.+++ It is contrary to the apostle`'s exhortation, 2 Cor. 13:11.
 
+[.numbered]
 7+++.+++ It is contrary to all the gifts that were given to the apostles,
 which were for the perfecting of the saints for the work of the ministry,
 for the edifying of the body of Christ, Till they all came into the unity of the faith,
@@ -450,8 +495,9 @@ and of the knowledge of the Son of God unto a perfect man,
 unto the measure of the stature of the fulness of Christ, Eph. 4:11-13;
 this was a large measure of perfection indeed, which they testified of,
 which afterwards was fulfilled in them.
-8.
-To say that none can be perfect while he is upon earth,
+
+[.numbered]
+8+++.+++ To say that none can be perfect while he is upon earth,
 makes Paul`'s words to the Philippians false;
 who though he had not then attained to perfection, either were already perfect;
 he did not say as Leonard Letchford doth, that none could be perfect on earth, but said,
@@ -493,6 +539,7 @@ this better hope was Christ in them the hope of glory.
 Col. 1:27; who when he was brought within the saints, made them perfect,
 even as he was in this world.
 
+[.numbered]
 9+++.+++ This Christ in the saints the apostles preached, warning every man,
 and teaching every man in all wisdom,
 that they might present every man perfect in Christ Jesus, Col. 1:28.
@@ -514,27 +561,33 @@ and shall come forth, they that have done good unto the resurrection of life;
 he that hath done evil and committed sin,
 shall rise unto the resurrection of condemnation, John 5:28-29.
 
+[.numbered]
 10+++.+++ To say that nothing can be perfect upon the earth,
 is against the apostle`'s fervent labour in prayers for the saints, which was,
 that they might stand perfect and complete in all the will of God, Col. 4:12.
 
+[.numbered]
 11+++.+++ It is against the end for which the Scripture was given forth, which was,
 that the man of God might be perfect, thoroughly furnished unto every good work, 2 Tim. 3:17.
 
+[.numbered]
 12+++.+++ It is contrary to the apostle`'s exhortation,
 to say that none can be perfect on earth, who said, let us go on to perfection,
 not laying again the foundation of repentance, etc. Heb. 6:1.
 And these things we will do if God permit, verse 3.
 
+[.numbered]
 13+++.+++ It is contrary to the exhortation of James, who said,
 let patience have its perfect work, that ye may be perfect and entire, wanting nothing,
 James 1:4; and said, if any man offend not in word, the same is a perfect man,
 and able also to bridle the whole body, James 3:2.
 
+[.numbered]
 14+++.+++ It is contrary to Peter`'s prayer, who prayed, that the God of all grace,
 who hath called us unto his eternal glory by Christ Jesus, after ye have suffered awhile,
 make you perfect, etc. 1 Pet. 5:10.
 
+[.numbered]
 15+++.+++ To say that men must commit sin while they are upon the earth,
 is contrary to the whole body of the Scripture,
 and was never affirmed by any of the holy men of God,
@@ -543,9 +596,11 @@ by pleading the devil`'s cause so frequently,
 which is to keep people in sin for term of life, which if he can by any means do,
 he knows they must come to him at the last, because the Son of God hath spoken it, Luke 8:27.
 
+[.numbered]
 16+++.+++ It is contrary to all these plain Scripture proofs, John 8:1,34 John 3:4,
 1 John 3:8, He that committeth sin is of the devil, etc.
 
+[.numbered]
 17+++.+++ To say that none can be perfect,
 doth make void the apostle`'s prayers for the Hebrews, when he parted from them;
 who prayed, that the God of peace,
@@ -553,6 +608,7 @@ that brought again from the dead our Lord Jesus Christ, that great Shepherd of t
 through the blood of the everlasting covenant,
 make you perfect in every good work to do his will, Heb. 13:20-21.
 
+[.numbered]
 18+++.+++ To say that none can be perfect on earth, makes Paul a liar, who said to the Hebrews,
 But ye are come to Mount Zion, unto the city of the living God, the heavenly Jerusalem,
 to the innumerable company of angels, Heb. 12:22.
@@ -560,28 +616,30 @@ To the general assembly and church
 of the first-born which are written in heaven, and to God the Judge of all,
 and to the spirits of just men made perfect, verse 23.
 
+====
+
 But it may be objected,
 that there is not a just man upon earth that doth good and sinneth not.
 
-Answer.
+_Answer:_
 This was spoken before the coming of Christ, who came to destroy sin,
 and finish transgression, as it is written, 1 John 3:8,
 and to save his people from their sins, Matt. 1:21, not to be a Saviour in sin,
 nor to save his people in their sins, but to save them from their sins,
 and so from the punishment due thereunto.
 
-Objection.
+_Objection:_
 But some in their blind ignorance will say, What benefit hath man by Christ,
 if he come to live without sin?
 
-Answer: He hath the benefit of the coming of Christ, of his death,
+_Answer:_ He hath the benefit of the coming of Christ, of his death,
 and of his resurrection, and of his blood which was shed for the remission of sins,
 as it is written, Matt. 26:28. And he only can call Christ his redeemer,
 who is redeemed from all iniquity. Tit. 2:14.
 
-Objection: Again it is said, in many things we offend all, etc.
+_Objection:_ Again it is said, in many things we offend all, etc.
 
-Answer: This was spoken to the brethren as a warning, not to go into the many things,
+_Answer:_ This was spoken to the brethren as a warning, not to go into the many things,
 nor to be many masters; for then they should receive greater condemnation:
 for in many things they offend all,
 and so did Martha while she was cumbered about many things, as Christ told her, Luke 10:41.
@@ -594,10 +652,10 @@ and kept a conscience void of offence towards God and all men. Acts 24:16.
 for it must needs be that offences come; but woe unto that man by whom they come. Matt. 18:7.
 Luke 17:1.
 
-Objection: It is said also, if we say that we have no sin, we deceive ourselves,
+_Objection:_ It is said also, if we say that we have no sin, we deceive ourselves,
 and the Truth is not in us.
 
-Answer: This was spoken by John before he came to the fulness of Christ,
+_Answer:_ This was spoken by John before he came to the fulness of Christ,
 though he was come to a measure of the stature of Christ,
 which kept him from committing sin; for he said, he that committeth sin is of the devil,
 and hath not seen God, neither known him, 1 John 3:8.
@@ -634,58 +692,78 @@ I shall here demonstrate how this strikes at the crown and dignity of Christ;
 and then I shall leave it to the serious consideration of the honest-hearted,
 whether this be a friend to Christ or an enemy to him.
 
+[.numbered-group]
+====
+
+[.numbered]
 1+++.+++ To say the things commanded by Christ cannot be done;
 renders him unjust to command his servants to do that which he knows they cannot do.
 
+[.numbered]
 2+++.+++ This frustrates the end for which God manifested him,
 which was to give power to as many as received him to become the sons of God.
 
+[.numbered]
 3+++.+++ This makes his commands of none effect; for if the things he commands cannot be done,
 to what end were they given forth?
 
+[.numbered]
 4+++.+++ This doctrine renders him more unjust than the devil;
 for he giveth the power to his servants to do all
 manner of iniquity which he commands them,
 and they obey his commands daily.
 
+[.numbered]
 5+++.+++ This is the highest dishonour that the enemies of Christ can bring to his sovereignty.
 
+[.numbered]
 6+++.+++ This makes the second covenant inferior to the first,
 which is damnable doctrine and heresy.
 
+[.numbered]
 7+++.+++ This makes him an insufficient Saviour, who was called Jesus,
 because he saved his people from their sins,
 which is the breach of God`'s law and commandments.
 
+[.numbered]
 8+++.+++ This makes the blood of the covenant of none effect,
 which was shed to cleanse his people from all sin.
 
+[.numbered]
 9+++.+++ This renders him an hard master; (to say his commands cannot be done),
 which none ever said of him, but the slothful servant who hid his talent in the earth.
 
+[.numbered]
 10+++.+++ To say his commands cannot be done, doth make him a liar,
 who commanded his servants to take his yoke upon them,
 for his yoke is easy and his burden light.
 
+[.numbered]
 11+++.+++ This is an inlet for all the workers of iniquity,
 to encourage them to break the commands of Christ,
 and to keep them in unbelief all their days.
 
+[.numbered]
 12+++.+++ This makes the apostle`'s testimony false; who saith, greater is he that is in us,
 than he that is in the world: but this renders him inferior to the prince of the world,
 if his commands cannot exactly be done without sinning;
 for what is it that hinders any from keeping his commands, but the prince of this world,
 by whose power all who break his law and commandments are led?
 
+[.numbered]
 13+++.+++ This makes John a liar, who said his commandments were not grievous but joyous.
 
+[.numbered]
 14+++.+++ To say the things commanded by Christ cannot be done without committing sin,
 as Leonard Letchford would have others say,
 doth overthrow the foundation principles of the book of common prayer,
 which enjoineth every child to keep God`'s holy will and commandments,
 and walk in the same all the days of his life?
 
+[.numbered]
 15+++.+++ This makes the godfathers and godmothers (as they are called) covenant-breakers;
 whom Leonard Letchford and others of his profession have caused to promise
 and vow that the child should keep God`'s holy will and commandments,
 and walk in the same to his life`'s end.
+
+====

@@ -1,6 +1,7 @@
 == Chapter IV
 
-=== A Few Words Concerning Man in his Fallen Degenerated Estate from God, in Which he Hath Not Power to Keep the Commands of God, Nor his Law, Nor to do Any Work Acceptable to him; but All his Righteousness is as Filthy Rags.
+[.blurb]
+=== A Few Words Concerning Man in His Fallen Degenerated Estate from God, in Which He Hath Not Power to Keep the Commands of God, Nor His Law, Nor to do Any Work Acceptable to Him; But All His Righteousness is as Filthy Rags.
 
 All men by nature are the children of wrath, as it is written, Eph. 2:3,
 fallen from God and his power, degenerate plants of a strange vine, Jer. 2:21,
@@ -184,7 +185,8 @@ therefore while thou hast a little time, prize it,
 lest the day of thy visitation pass away,
 and the day of wrath come upon thee as a thief in the night, 1 Thess. 5:2.
 
-=== A Testimony Concerning the Spiritual Man, who is Begotten of God, Through the Spirit, by the Immortal Word of God, which Liveth and Abideth forever, and Hath Received the Spirit of Adoption, Whereby he Cries Abba, Father.
+[.blurb]
+=== A Testimony Concerning the Spiritual Man, Who is Begotten of God, Through the Spirit, by the Immortal Word of God, which Liveth and Abideth forever, and Hath Received the Spirit of Adoption, Whereby he Cries Abba, Father.
 
 As there is a natural man who is corrupted after the deceitful lusts,
 so there is a spiritual man, who is born of the Spirit,
@@ -284,7 +286,8 @@ Num. 22:18; 24:13. But they love and take it,
 and persecute all those who will not give it to them,
 as we have a cloud of witnesses standing upon record against them at this day.
 
-=== The Way which Leadeth to the Kingdom of God, Held Forth to All who are Willing to Enter Therein.
+[.blurb]
+=== The Way Which Leadeth to the Kingdom of God, Held Forth to All Who are Willing to Enter Therein.
 
 As Satan by sin and transgression opened a way into
 eternal misery and condemnation from God,
@@ -429,7 +432,8 @@ and spread thy table in the sight of thy enemies, Ps. 23:1-5,
 and he will lead thee into green pastures by the rivers of water,
 and will restore thy soul to praise and glorify his name forever.
 
-=== The Difference Between the True Gospel and the False, Truly Stated and Clearly Demonstrated; that All People may See and Read which Gospel they have Received and Obeyed these Many Years, Whether the True Gospel, or the False.
+[.blurb]
+=== The Difference Between the True Gospel and the False, Truly Stated and Clearly Demonstrated; that All People may See and Read Which Gospel They Have Received and Obeyed These Many Years, Whether the True Gospel, or the False.
 
 The true and everlasting gospel of Jesus Christ the Son of God,
 is glad tidings of good things; which are remission of sins,
@@ -487,8 +491,8 @@ The messengers of the false gospel say, Christ shall save from the punishment du
 but not from committing sin; which doctrine overthrows the justice of God,
 who giveth to every one according to their deeds.
 
-=== To the General Assembly of the First-Born in the Northern Coasts of England, who were the First Fruits unto God, and had First the Joyful Sound of the Everlasting Gospel Published in your Ears, Whereby you were Raised from Death, to Live with the Lord in his Holy Covenant of Life, Wherein his Sure Mercies unto you have been Fully Known and Manifested; Grace, Mercy, Love and Peace, be Multiplied In and Amongst you all.
-Amen.
+[.blurb]
+=== To the General Assembly of the First-Born in the Northern Coasts of England, Who Were the First Fruits unto God, and had First the Joyful Sound of the Everlasting Gospel Published in Your Ears, Whereby You were Raised from Death, to Live with the Lord in His Holy Covenant of Life, Wherein His Sure Mercies unto You Have Been Fully Known and Manifested; Grace, Mercy, Love and Peace, be Multiplied In and Amongst You All. Amen.
 
 Right dearly beloved, and highly esteemed of the Lord,
 unto whom his everlasting love in Christ Jesus hath fully extended,
@@ -658,7 +662,13 @@ From the place of my outward restraint for the testimony of the everlasting gosp
 being prisoner in the common jail of Horsham in Sussex, by your brother and companion,
 called
 
+[.signed-section-signature]
 Ambrose Rigge.
+
+[.postscript]
+====
 
 Let this be read with fear and reverence in all the
 congregations of God`'s people in the north country.
+
+====

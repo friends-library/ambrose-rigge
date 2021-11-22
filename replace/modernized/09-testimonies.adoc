@@ -1,6 +1,7 @@
 == Testimonies of Ambrose and Mary Rigge
 
-=== Ambrose Rigge`'s Testimony Concerning his Wife
+[.blurb]
+=== Ambrose Rigge`'s Testimony Concerning His Wife
 
 In the year 1664, I took Mary Luxford to wife,
 who was the second daughter of Thomas Luxford, and Elizabeth his wife,
@@ -63,10 +64,13 @@ I am not a little comforted therein; the Lord preserve them to the end of their 
 in faith and well doing.
 Amen.
 
+[.signed-section-signature]
 Ambrose Rigge.
 
+[.signed-section-context-close]
 Rigate, the 11th of the Ninth month, 1694.
 
+[.blurb]
 === George Whitehead`'s Testimony Concerning Ambrose Rigge
 
 We having for many years been acquainted,
@@ -141,6 +145,8 @@ in which the Lord`'s presence and power did attend us, and bless our assembly.
 For he was a man that had obtained a good report,
 and left a sweet savour of truth and honesty behind him.
 
+[.signed-section-signature]
 George Whitehead.
 
+[.signed-section-context-close]
 London, the 25th of the Second month, 1709.
