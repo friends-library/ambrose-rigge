@@ -1,6 +1,7 @@
 == Chapter II
 
-=== Robert Pepys, Priest of Gatton in Surrey, his False Accusations to the Justices at the Sessions Against Ambrose Rigge; a Copy Whereof Followeth
+[.blurb]
+=== Robert Pepys, Priest of Gatton in Surrey, His False Accusations to the Justices at the Sessions Against Ambrose Rigge; a Copy Whereof Followeth
 
 This Ambrose is lately come into this parish, from Horsham,
 where he was in the prison (as it is reported) seven years for his damnable heresies,
@@ -16,9 +17,13 @@ And this honourable court is humbly and earnestly requested by the minister and 
 to take special notice of him, as a most dangerous person to the church,
 being a ringleader of sects and schisms.
 
+[.blurb]
 === Ambrose Rigge`'s Letter to Robert Pepys
 
-Neighbour Pepys,--I am credibly informed,
+[.salutation]
+Neighbour Pepys,
+
+I am credibly informed,
 that thou didst greatly instigate the magistrates, at the sessions in Southwark,
 against me, and there affirmed several untruths in a letter above mentioned.
 I have reason to wonder why, upon all occasions,
@@ -61,10 +66,13 @@ than to offend one of the least of them who believe in Christ.`"
 Do not covet my vineyard by ensnaring me, lest Ahab`'s reward be thy portion.
 No more, but that I am a friend to thee and all men.
 
+[.signed-section-signature]
 Ambrose Rigge.
 
+[.blurb]
 === To the Inhabitants of Gatton, in the County of Surrey, and to All Others Whom it Doth or May Concern
 
+[.salutation]
 Friends and Neighbours,
 
 As of old, he that was born after the flesh,
@@ -153,9 +161,11 @@ This, in tender love and good will, is written by him,
 who hath learned to bless them who curse him;
 and to do good to them who spitefully hate and persecute him, who is called
 
+[.signed-section-signature]
 Ambrose Rigge.
 
-=== An Epistle to the People of God, Called Quakers, in the North of England, to be Read in All their Meetings
+[.blurb]
+=== An Epistle to the People of God, Called Quakers, in the North of England, to be Read in All Their Meetings
 
 Beloved Friends, brethren and sisters, who are inhabitants of my native country,
 whom the Lord, in the first breaking forth of his glorious gospel day,
@@ -459,10 +469,13 @@ Amen.
 
 I am your brother and fellow servant, in the labour of the gospel of peace,
 
+[.signed-section-signature]
 Ambrose Rigge.
 
+[.signed-section-context-close]
 Rigate, this 16th day of the Tenth month, 1692.
 
+[.blurb]
 === A Visitation of Tender Love From the Lord unto Charles II, King of England, Scotland and Ireland
 
 Let the consideration of these following lines deeply sink into thy heart,
@@ -571,6 +584,8 @@ before they be hid from thee.
 This was laid upon me once more to lay before thee without flattering titles,
 who am one of thy suffering subjects, known by the name of
 
+[.signed-section-signature]
 Ambrose Rigge.
 
+[.signed-section-context-close]
 This was written the 2nd of the Seventh month, 1662.

@@ -1,7 +1,9 @@
 == Chapter VI
 
+[.blurb]
 === To Friends in the Isle of Wight.
 
+[.salutation]
 Dear Friends,
 
 Whom I often remember in the love of God the Father, desiring at the throne of grace,
@@ -65,10 +67,13 @@ hoping again to see your faces when the Lord opens my way;
 to whose inward word I leave you to be guided in all things.
 Amen.
 
+[.signed-section-signature]
 Ambrose Rigge.
 
+[.signed-section-context-close]
 Rigate, this 13th day of the Sixth month, 1691.
 
+[.blurb]
 === An Epistle From our Monthly Meeting, Held at our Public Meeting-House in Rigate, in Surrey, the Seventh-Day of the Ninth Month, 1692.
 
 We being assembled with one accord in the unity of the spirit of Truth,
@@ -254,12 +259,16 @@ that the honourable name by which you are called, and in which you have been pre
 as you have trusted in it, may be your rock, refuge, and tower to the end of your days;
 Amen.
 
+[.signed-section-closing]
 Written and signed in behalf of the said meeting, by
 
+[.signed-section-signature]
 Ambrose Rigge.
 
+[.blurb]
 === A General Epistle to the People of God, in Scorn Called Quakers, in England and Elsewhere.
 
+[.salutation]
 Dear friends, brethren and sisters,
 
 Unto whom the visitation of life in the Son of the Father`'s love has reached:
@@ -572,10 +581,13 @@ settle you upon the Rock of ages, in full and perfect unity with God,
 and one with another, in which I bid you all farewell;
 and remain your true friend and brother in the bond of love and peace,
 
+[.signed-section-signature]
 Ambrose Rigge.
 
+[.signed-section-context-close]
 Rigate in Surrey, the 2nd of the Ninth month, 1693.
 
+[.blurb]
 === Consideration of True and Acceptable Worship
 
 The deep and weighty consideration of the true and
@@ -660,6 +672,8 @@ and are willing to obey his word, come out of her, and partake not with her in h
 lest you partake of her plagues.
 From a lover of the souls of all men,
 
+[.signed-section-signature]
 Ambrose Rigge.
 
+[.signed-section-context-close]
 Rigate, the 30th of the Fourth month, 1697.

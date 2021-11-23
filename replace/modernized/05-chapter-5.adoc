@@ -1,6 +1,7 @@
 == Chapter V
 
-=== To all Rulers, magistrates, Priests and People, who Profess the Scriptures to be their Rule, Throughout the Nation of England; but More Particularly to the Magistrates, Priests, and People of this County of Sussex, who have had Any Hand in Oppressing and Persecuting of them whom God has Sent as Strangers Among them, in Tender Love and Pity to their Souls, to Turn them to Righteousness, Through Which they may See how Far they are From the Practice and Command of the True Christians, Mentioned in the Scriptures of Truth.
+[.blurb]
+=== To All Rulers, Magistrates, Priests and People, Who Profess the Scriptures to be Their Rule, Throughout the Nation of England; but More Particularly to the Magistrates, Priests, and People of this County of Sussex, Who Have Had Any Hand in Oppressing and Persecuting of Them Whom God has Sent as Strangers Among Them, in Tender Love and Pity to Their Souls, to Turn Them to Righteousness, Through Which They May See How Far They are From the Practice and Command of the True Christians, Mentioned in the Scriptures of Truth.
 
 Throughout all ages and generations,
 he that was born after the flesh persecuted him that was born after the Spirit;
@@ -137,11 +138,14 @@ and they may judge whether they are ministers of Christ, or antichrist.
 From us who are present sufferers under the cruelty of men in the county jail in Horsham,
 whose names are
 
+[.signed-section-signature]
 Ambrose Rigge, Ambrose Galloway, Richard Webb, James Matthew.
 
+[.signed-section-context-close]
 Dated about the Eighth month, 1663.
 
-=== A Brief and Serious Learning to Such as are Concerned in Commerce and Trading, who go Under the Profession of Truth, to Keep Within the Bounds Thereof, in Righteousness, Justice and Honesty Towards all Men.
+[.blurb]
+=== A Brief and Serious Learning to Such as are Concerned in Commerce and Trading, Who go Under the Profession of Truth, to Keep Within the Bounds Thereof, in Righteousness, Justice and Honesty Towards All Men.
 
 Many days and months, yes, some years has my life been oppressed, and my spirit grieved,
 to see and hear of the uneven walking of many, who have a name to live,
@@ -260,10 +264,7 @@ as is at this day witnessed--praises to God on high; and that man has no glory i
 nor mind out after, superfluous or needless rich hangings, costly furniture, fine tables,
 great treats, curious beds, vessels of silver or vessels of gold,
 the very possession of which, as says the ancient Christian Clemens Alexandrinus,
-creates envy.
-Padag.
-lib. 2 cap.
-3, pages 160, 161.
+creates envy. [.book-title]#Padag. lib. 2 cap. 3,# pages 160, 161.
 
 The way to be rich and happy in this world, is first to learn righteousness;
 for such a one was never forsaken in any age, nor his seed begging bread.
@@ -340,10 +341,13 @@ and in them that are lost.
 
 Written by one who longs to see righteousness exalted, and all deceit confounded.
 
+[.signed-section-signature]
 Ambrose Rigge.
 
+[.signed-section-context-close]
 Gatton-place, in Surrey, the 16th of the Eleventh month, 1678.
 
+[.blurb]
 === To All the Faithful Flock of God in Suffering, Whether in Prison or at Liberty, in Scorn Called Quakers
 
 The salutation of my endeared love in our Lord Jesus Christ,
@@ -445,13 +449,17 @@ So the God of all mercy possess our souls more and more with quietness and confi
 that our strength may be made perfect in him, who has all power in heaven and earth,
 that we may continue in faith, patience and well-doing unto the end.
 
+[.signed-section-closing]
 I am your brother and fellow-sufferer,
 
+[.signed-section-signature]
 Ambrose Rigge.
 
+[.signed-section-context-close]
 Gatton, this 28th of the Twelfth month, 1682-3.
 
-=== The Spiritual Guide of Life, Offered and Tendered to All Mankind, Without Respect of Persons, Age or Sex, to Direct their Feet into the Way of Peace. Or the Inward and Spiritual Grace of God Exalted as Man`'s Only Teacher.
+[.blurb]
+=== The Spiritual Guide of Life, Offered and Tendered to All Mankind, Without Respect of Persons, Age or Sex, to Direct Their Feet into the Way of Peace. Or the Inward and Spiritual Grace of God Exalted as Man`'s Only Teacher.
 
 It is the universal concern of all mankind upon the face of the whole earth,
 to seek those things which belong to their eternal peace, happiness,
@@ -879,6 +887,8 @@ so shall the kingdoms of the world become the kingdoms of God and his Son.
 This testimony lay upon me to leave behind to the world,
 not knowing how long my days may be therein.
 
+[.signed-section-signature]
 Ambrose Rigge.
 
+[.signed-section-context-close]
 Rigate, this 30th of the Third month, 1691.

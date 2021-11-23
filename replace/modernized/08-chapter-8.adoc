@@ -1,5 +1,6 @@
 == Chapter VIII
 
+[.blurb]
 === The Gospel of our Lord Jesus Christ Witnessed Unto, etc.
 
 The true and everlasting gospel is glad tidings, namely, deliverance, redemption,
@@ -101,6 +102,7 @@ When we lay polluted in our blood, and no eye pitied us, he had compassion on us
 and said unto us, live; and his word quickened us, and became a light to our feet,
 and guided them into the way of holiness, which alone leads to everlasting life.
 
+[.blurb]
 === The False Gospel, (or Another Gospel Than That the Apostles Preached,) Which is Sad Tidings, Witnessed Against.
 
 This gospel, though it has many of the words of the true,
@@ -144,10 +146,13 @@ O! let all deeply and weightily consider these things, and lay them to heart,
 before it be too late, and repentance be hid from their eyes!
 Which God grant, through Jesus Christ our Lord, Amen.
 
+[.signed-section-signature]
 Ambrose Rigge.
 
+[.signed-section-context-close]
 Rigate, the 7th of the Eleventh month, 1702-3.
 
+[.blurb]
 === A Further Account of the Benefits of True Christianity, by the Spiritual Appearance of Christ.
 
 The primary and fundamental principle of true Christianity, is the gift of God,
@@ -358,9 +363,14 @@ that so God over all, through his dear Son Jesus Christ, our only Saviour, Media
 and Redeemer may be glorified; by whose power alone I have been preserved,
 to whom I give the praise, both now, and hope I shall forevermore.
 
+[.signed-section-signature]
 Ambrose Rigge.
 
+[.signed-section-context-close]
 Rigate in Surrey, the 24th of the Twelfth month, 1702-3.
+
+[.postscript]
+====
 
 Postscript.--Forasmuch as many brethren have taken in hand,
 to set forth and declare in word and writing,
@@ -385,6 +395,9 @@ to the finishing of my testimony.
 Amen.
 Hallelujah says my soul.
 
+====
+
+[.blurb]
 === A Treatise Concerning the Internal Word and Spirit of God, etc.
 
 In the beginning God made man upright, and gave him wisdom,
@@ -965,40 +978,35 @@ This being the desire, and fervent prayer,
 of him who would have all men come to the knowledge of the Truth, and be saved,
 called among men,
 
+[.signed-section-signature]
 Ambrose Rigge.
 
+[.signed-section-context-close]
 Rigate in Surrey, the 8th of the Fifth month, 1703.
 
+[.blurb]
 === The Song of a Solaced Soul
 
+[verse]
+____
 Mount up, my soul, on contemplation`'s wing.
-
 And sound high praises, to thy Heavenly King:
-
 Who hath destroyed death; that he may be
-
 Forevermore a Saviour unto thee.
-
 Therefore to live is Christ, to die is gain,
-
 That thou with Him, forever mayest remain.
-
 In perfect triumph, over death and hell.
-
 In those sweet mansions, which no tongue can tell.
-
 So while on earth thou dost continue here.
-
 Mind thy Redeemer, with continual fear;
-
 Who will preserve thee, to thy finishing day,
-
 From sin to death, and every evil way,
-
 Then will God`'s secrets ever thee attend,
-
 And crown thy head with laurel in the end.
+____
 
+[.signed-section-signature]
 by Ambrose Rigge.
 
+[.signed-section-context-close]
 Written at Rigate in Surrey, the 4th of the Eighth month, 1703.

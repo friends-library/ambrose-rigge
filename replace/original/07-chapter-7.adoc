@@ -1,5 +1,6 @@
 == Chapter VII
 
+[.blurb]
 === A General Epistle to All Friends and Brethren, Everywhere; to be Read Among Them in the Fear of God, etc.
 
 My dearly beloved friends, brethren and sisters,
@@ -370,12 +371,16 @@ and bless and prosper his work in our hands, to his eternal praise,
 and our mutual joy and comfort forever.
 With the renewed salutation of my true love to you all, I am
 
+[.signed-section-closing]
 Your ancient friend and brother,
 
+[.signed-section-signature]
 Ambrose Rigge.
 
+[.signed-section-context-close]
 Rigate in Surrey, the 4th of the Fifth month, 1702.
 
+[.blurb]
 === A Testimony to True Christianity, etc.
 
 The great and everlasting God who created heaven and earth, the sea,
@@ -691,7 +696,8 @@ where no unclean person can come, Eph. 5:5, Isa. 38:18,
 neither can death nor the grave praise the Lord,
 nor they that go down to the pit hope for his Truth.
 
-Objection.
+[.discourse-part]
+_Objection:_
 But the great objection and plea, that many in our day have, is that in John,
 where he saith, If we say that we have no sin, we deceive ourselves,
 and the Truth is not in us, 1 John 1: 8, supposing, that neither he,
@@ -771,7 +777,8 @@ neither have they part in him, who is the resurrection and the life,
 because not washed and sanctified by him; for he said to Peter, if I wash thee not,
 thou hast no part with me, John 13:8-10.
 
-But I have heard some affirm, that God suffers sin, in the dearest of his children,
+[.discourse-part]
+_Objection:_ But I have heard some affirm, that God suffers sin, in the dearest of his children,
 to keep them humble.
 
 This is a doctrine of antichrist, and hath not the least footing in the Holy Scripture,
@@ -820,7 +827,8 @@ that there shall in no wise enter into it, any thing that defileth,
 or worketh abomination, or maketh a lie;
 but they who are written in the Lamb`'s book of life, Rev. 21:27.
 
-Objection: But some have objected and said,
+[.discourse-part]
+_Objection:_ But some have objected and said,
 that if people be thoroughly cleansed from sin on this side the grave,
 they need no Mediator or advocate, etc.
 
@@ -832,11 +840,13 @@ for the unsanctified and for the sanctified; for the first, that they may be san
 for the last, that they may be preserved and kept from the evil:
 therefore there is need of Christ as advocate for all mankind.
 
-Query:
+[.discourse-part]
+_Query:_
 In what state may persons have the real benefit of Christ`'s mediation and intercession,
 in order to receive forgiveness and salvation?
 
-Answer: In a state of need thereof, and true desire thereafter;
+[.discourse-part]
+_Answer:_ In a state of need thereof, and true desire thereafter;
 and when they do not harden their hearts unto wilful sinning.
 Christ makes intercession for men, whilst they have a day of visitation,
 wherein his Spirit strives with them.
@@ -972,6 +982,9 @@ among the many testimonies which were given by the ancient primitive Christians,
 many ages ago, left upon record to this day,
 viz. Clemens of Alexandria gave this short account of them:
 
+[.embedded-content-document]
+--
+
 No man is with us a Christian, or accounted truly rich, temperate and generous,
 but he that is pious and religious; nor does any further bear the image of God,
 than he speaks and believes what is just and holy;
@@ -986,14 +999,21 @@ it is a most certain argument they are no Christians,
 though with their tongues they ever so smoothly profess the Christian doctrine;
 for it is not merely professors, but those who live according to their profession,
 that shall be saved;
-as Justin Martyr declared before the emperors.--Primitive Christianity, Part 1. c. 4.
+as Justin Martyr declared before the emperors.--[.book-title]#Primitive Christianity, Part 1. c. 4.#
+
+--
+
+[.embedded-content-document]
+--
 
 Let no man +++[+++says Basil,]
 impose upon himself with inconsiderate words, saying, though I be a sinner,
 yet I am a Christian; and I hope that title shall be my shelter.
 But hearken sinner, all wicked men shall be bundled up together,
 and in the great day of divine vengeance shall be indifferently thrown into those
-merciless and devouring flames.--Primitive Christianity Part 1. fol. 82. c. 4.
+merciless and devouring flames.--[.book-title]#Primitive Christianity Part 1. fol. 82. c. 4.#
+
+--
 
 Now was corruption creeping into the profession of Christianity;
 but the upright among them saw it, and gave an early testimony against it;
@@ -1050,7 +1070,10 @@ pleasant and delightful to the outward eye; and also her golden cup,
 engaging to the carnal mind and affection; and her temple, like those which Origen,
 the ancient Christian, testified against among the Egyptians:
 
-When you approach +++[+++says he,]
+[.embedded-content-document]
+--
+
+When you approach
 their sacred places, they have glorious groves and chapels,
 temples with goodly gates and stately porticos,
 and many mysteries and religious ceremonies; but when once you are entered,
@@ -1060,7 +1083,9 @@ and scarlet colour, decked with gold and precious stones and pearls,
 having a golden cup in her hand, full of abominations, and filthiness:
 and upon her forehead is written,
 "`Mystery, Babylon the Great, the Mother of Harlots, and Abominations of the Earth,`"
-Rev. 17:4-5.--Primitive Christianity Part 1. p. 1.
+Rev. 17:4-5.--[.book-title]#Primitive Christianity Part 1. p. 1.#
+
+--
 
 Nevertheless, many have been in love with her, delighting to drink of her cup,
 who could not see her inside.
@@ -1084,6 +1109,8 @@ Written in the bowels of love and compassion to the souls of people everywhere,
 that they may know the seed of God to arise, and bring forth righteousness in them,
 by a lover of all mankind.
 
+[.signed-section-signature]
 Ambrose Rigge.
 
+[.signed-section-context-close]
 Rigate in Surrey, the 22nd of the Tenth month, 1702.
