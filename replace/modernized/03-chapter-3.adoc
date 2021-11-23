@@ -615,9 +615,11 @@ and to the spirits of just men made perfect, verse 23.
 
 ====
 
+[.offset]
 But it may be objected,
 that there is not a just man upon earth that does good and sins not.
 
+[.discourse-part]
 _Answer:_
 This was spoken before the coming of Christ, who came to destroy sin,
 and finish transgression, as it is written, 1 John 3:8,
@@ -625,17 +627,21 @@ and to save his people from their sins, Matt. 1:21, not to be a Saviour in sin,
 nor to save his people in their sins, but to save them from their sins,
 and so from the punishment due thereunto.
 
+[.discourse-part]
 _Objection:_
 But some in their blind ignorance will say, What benefit has man by Christ,
 if he come to live without sin?
 
+[.discourse-part]
 _Answer:_ He has the benefit of the coming of Christ, of his death,
 and of his resurrection, and of his blood which was shed for the remission of sins,
 as it is written, Matt. 26:28. And he only can call Christ his redeemer,
 who is redeemed from all iniquity. Tit. 2:14.
 
+[.discourse-part]
 _Objection:_ Again it is said, in many things we offend all, etc.
 
+[.discourse-part]
 _Answer:_ This was spoken to the brethren as a warning, not to go into the many things,
 nor to be many masters; for then they should receive greater condemnation:
 for in many things they offend all,
@@ -649,9 +655,11 @@ and kept a conscience void of offence towards God and all men. Acts 24:16.
 for it must needs be that offences come; but woe unto that man by whom they come. Matt. 18:7.
 Luke 17:1.
 
+[.discourse-part]
 _Objection:_ It is said also, if we say that we have no sin, we deceive ourselves,
 and the Truth is not in us.
 
+[.discourse-part]
 _Answer:_ This was spoken by John before he came to the fullness of Christ,
 though he was come to a measure of the stature of Christ,
 which kept him from committing sin; for he said, he that commits sin is of the devil,
